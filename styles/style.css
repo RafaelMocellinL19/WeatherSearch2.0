@@ -16,7 +16,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(0, 0, 250);
+    background-color:#918f6fce ;
     background-image: url(/images/pexels.jpg);
     background-attachment: fixed;
     background-position: center;
